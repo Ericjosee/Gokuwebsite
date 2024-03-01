@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+h1 {
+    color: #ff9900; 
+}
+
+.transformations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.transformation {
+    background-color: #fff;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    width: 300px;
+}
+
+.transformation img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0; 
+}
+
+
+section img {
+  
+  border: 2px solid gold;
+  
+}
